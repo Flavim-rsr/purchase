@@ -1,3 +1,4 @@
+
 # Purchase
 
 Aplicativo mobile de lista de compras desenvolvido com React Native e Expo Go com foco em aprendizado prático.
@@ -12,9 +13,20 @@ Ao longo do desenvolvimento, o foco foi praticar recursos muito comuns em projet
 
 ## Preview
 
-![Preview do app](./assets/purchaseImg.jpeg)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/31d2cdcd-b105-4813-9759-936586c4838e" width="250"/>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/4c8d44f7-c0ff-4618-955e-18dadff3be16" width="250" controls></video>
+    </td>
+  </tr>
+</table>
 
-[Assista ao vídeo de demonstração](./assets/purchaseVideo.mp4)
+
+
+
 
 ## Funcionalidades
 
